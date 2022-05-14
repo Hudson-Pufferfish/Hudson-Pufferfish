@@ -30,10 +30,14 @@
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="20" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="20" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/-Vercel-282C34?style=flat-square&logo=vercel" alt="Vercel logo" title="Vercel" height="20"/></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/-Netlify-282C34?style=flat-square&logo=netlify" alt="Netlify logo" title="Netlify" height="20"/></span>
 <br>
 <br>
 
-<i> Want to Learn: </i>
+<i> Want to learn more about: </i>
 
 <span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=59BCCA" alt="NextJS logo" title="NextJS" height="20" /></span>
 &nbsp;
@@ -60,10 +64,6 @@
 </span>
 <br>
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="20"/></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/-Vercel-282C34?style=flat-square&logo=vercel" alt="Vercel logo" title="Vercel" height="20"/></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/-Netlify-282C34?style=flat-square&logo=netlify" alt="Netlify logo" title="Netlify" height="20"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/-Heroku-282C34?style=flat-square&logo=heroku" alt="Heroku logo" title="Heroku" height="20"/></span>
 &nbsp;
