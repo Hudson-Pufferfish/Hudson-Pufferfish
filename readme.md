@@ -21,6 +21,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="20" /></span>
 &nbsp;
+<br>
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="20" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="20" /></span>
@@ -31,9 +32,20 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="20" /></span>
 &nbsp;
+<br>
+<span><img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=D30001" alt="Ruby logo" title="Ruby" height="20" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Rails-282C34?logo=ruby-on-rails&logoColor=D30001" alt="Rails logo" title="Ruby On Rails" height="20" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/-Vercel-282C34?style=flat-square&logo=vercel" alt="Vercel logo" title="Vercel" height="20"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/-Netlify-282C34?style=flat-square&logo=netlify" alt="Netlify logo" title="Netlify" height="20"/></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/-Heroku-282C34?style=flat-square&logo=heroku" alt="Heroku logo" title="Heroku" height="20"/></span>
+&nbsp;
+<span>
+<img src = "https://img.shields.io/badge/-PostGreSQL-282C34?style=flat-square&logo=postgresql" alt="PostgreQL logo"  title="PostgreSQL" height="20"/>
+</span>
 <br>
 <br>
 
@@ -64,12 +76,6 @@
 </span>
 <br>
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="20"/></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/-Heroku-282C34?style=flat-square&logo=heroku" alt="Heroku logo" title="Heroku" height="20"/></span>
-&nbsp;
-<span>
-<img src = "https://img.shields.io/badge/-PostGreSQL-282C34?style=flat-square&logo=postgresql" alt="PostgreQL logo"  title="PostgreSQL" height="20"/>
-</span>
 &nbsp;
 <span>
 <img src = "https://img.shields.io/badge/-MySQL-282C34?style=flat-square&logo=mysql" alt="MySQL logo" title="MySQL" height="20"/>
@@ -138,7 +144,7 @@
   &nbsp;
  
    <a href="#" title="HudsonPufferfishdev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudson-Pufferfish&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=292D3E&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudson-Pufferfish&hide=c%23,powershell,Mathematica,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=292D3E&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
