@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hi!+I'm+Hudson+👌;I'm+a+rising+sophomore+at+Luther+College.;Nice+to+know+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hi!+I'm+Hudson+👌;I'm+a+CS+sophomore+at+Luther+College.;Nice+to+know+you!)](https://git.io/typing-svg)
 
 # <a href="https://github.com/Hudson-Pufferfish"><img src="https://emoji.gg/assets/emoji/8519-babykoala.png" width="64px" height="64px" alt="BabyKoala"></a> Hi, I’m Hudson Nguyen!
 
@@ -26,6 +26,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="20" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=59BCCA" alt="NextJS logo" title="NextJS" height="20" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="20" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="20" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="20" /></span>
@@ -36,6 +40,8 @@
 <span><img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=D30001" alt="Ruby logo" title="Ruby" height="20" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Rails-282C34?logo=ruby-on-rails&logoColor=D30001" alt="Rails logo" title="Ruby On Rails" height="20" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Flask-282C34?style=flat-square&logo=flask" alt="Flask logo" title="Flask" height="20"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/-Vercel-282C34?style=flat-square&logo=vercel" alt="Vercel logo" title="Vercel" height="20"/></span>
 &nbsp;
@@ -51,10 +57,6 @@
 
 <i> Want to learn more about: </i>
 
-<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=59BCCA" alt="NextJS logo" title="NextJS" height="20" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="20" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="20" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="20" /></span>
