@@ -99,7 +99,6 @@
 <br>
 
 <u> Others:</u>
-
 <br>
 <span>
 <img src = "https://img.shields.io/badge/-Python-282C34?style=flat-square&logo=Python" alt="Python logo"  title="Python" height="20"/>
@@ -167,7 +166,7 @@
   <a href="https://www.instagram.com/_hudson.ng/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hudson-instagram" />
   </a>
-  <a href="mailto:hungson.nguyen811@gmail.com" target="top">
+  <a href="mailto:hungson.nguyen811@gmail.com" target="top" rel="noopener noreferrer">
   <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="hudson-email"/>
   </a>
 </div>
