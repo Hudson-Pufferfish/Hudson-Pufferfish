@@ -41,6 +41,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Rails-282C34?logo=ruby-on-rails&logoColor=D30001" alt="Rails logo" title="Ruby On Rails" height="20" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="20" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="20" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Flask-282C34?style=flat-square&logo=flask" alt="Flask logo" title="Flask" height="20"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/-Vercel-282C34?style=flat-square&logo=vercel" alt="Vercel logo" title="Vercel" height="20"/></span>
@@ -48,6 +52,8 @@
 <span><img src="https://img.shields.io/badge/-Netlify-282C34?style=flat-square&logo=netlify" alt="Netlify logo" title="Netlify" height="20"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/-Heroku-282C34?style=flat-square&logo=heroku" alt="Heroku logo" title="Heroku" height="20"/></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="20" /></span>
 &nbsp;
 <span>
 <img src = "https://img.shields.io/badge/-PostGreSQL-282C34?style=flat-square&logo=postgresql" alt="PostgreQL logo"  title="PostgreSQL" height="20"/>
@@ -63,12 +69,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Svelte.js-282C34?logo=svelte" alt="SvelteJS logo" title="SvelteJS" height="20" /></span>
 <br>
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="20" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="20" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="20" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/-GraphQL-282C34?style=flat-square&logo=graphql" alt="GraphQL logo" title="GraphQL" height="20" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=009137" alt="Nginx logo" title="Nginx" height="20" /></span>
