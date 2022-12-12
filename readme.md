@@ -127,7 +127,8 @@
   &nbsp;
   <br>
   
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Hudson-Pufferfish.Hudson-Pufferfish&color=00cf00)</h3>
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Hudson-Pufferfish.Hudson-Pufferfish&color=00cf00)
+</h3>
 
 <div align=center>
 
