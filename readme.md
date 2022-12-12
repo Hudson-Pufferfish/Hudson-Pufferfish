@@ -85,15 +85,12 @@
 
 <br>
 
-<u> Mobile App Development Technologies & Tools (Want to Learn): </u>
+<u> Mobile App Development Technologies & Tools: </u>
 
 <br>
 
 <span>
 <img src = "https://img.shields.io/badge/react_native-282C34?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native logo" title="React Native" height="20"/>
-</span>
-<span>
-<img src = "https://img.shields.io/badge/-Flutter-282C34?style=flat-square&logo=flutter" alt="Flutter logo" title="Flutter" height="20"/>
 </span>
 <br>
 <br>
