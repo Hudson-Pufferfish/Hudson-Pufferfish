@@ -53,6 +53,12 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/-Heroku-282C34?style=flat-square&logo=heroku" alt="Heroku logo" title="Heroku" height="20"/></span>
 &nbsp;
+<span>
+<img src = "https://img.shields.io/badge/Postman-282C34?style=flat-square&logo=postman" alt="Postman logo" title = "Postman" height="20"/>
+</span>
+<br>
+<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="20"/></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="20" /></span>
 &nbsp;
 <span>
@@ -72,12 +78,6 @@
 <span><img src="https://img.shields.io/badge/-GraphQL-282C34?style=flat-square&logo=graphql" alt="GraphQL logo" title="GraphQL" height="20" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=009137" alt="Nginx logo" title="Nginx" height="20" /></span>
-&nbsp;
-<span>
-<img src = "https://img.shields.io/badge/Postman-282C34?style=flat-square&logo=postman" alt="Postman logo" title = "Postman" height="20"/>
-</span>
-<br>
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="20"/></span>
 &nbsp;
 <span>
 <img src = "https://img.shields.io/badge/-MySQL-282C34?style=flat-square&logo=mysql" alt="MySQL logo" title="MySQL" height="20"/>
