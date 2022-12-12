@@ -127,7 +127,7 @@
   &nbsp;
   <br>
   
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Hudson-Pufferfish.Hudson-Pufferfish&color=00cf00)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hudson-pufferfish.visitor-badge&left_color=red&right_color=green&left_text=Visitor%20In%20This%20Month)
 </h3>
 
 <div align=center>
