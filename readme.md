@@ -124,7 +124,7 @@
   &nbsp;
   <br>
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hudson-pufferfish.visitor-badge&left_color=red&right_color=green&left_text=Number%20of%20Visitors%20In%20This%20Month)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hudson-pufferfish.visitor-badge&left_color=red&right_color=green&left_text=Number%20of%20Visitors)
 </h3>
 
 <div align=center>
