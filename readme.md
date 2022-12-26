@@ -13,75 +13,75 @@
 <u> Web Development Technologies & Tools: </u>
 
 <br>
-<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="20" /></span>
+<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="20" /></span>
+<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="20" /></span>
+<span><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="20" /></span>
-&nbsp;
-<br>
-<span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="20" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="20" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=59BCCA" alt="NextJS logo" title="NextJS" height="20" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="20" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Three.js-282C34?logo=three.js&logoColor=FFFFFF" alt="Three.js logo" title="Three.js" height="20" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="20" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="20" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 <br>
-<span><img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=D30001" alt="Ruby logo" title="Ruby" height="20" /></span>
+<span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Rails-282C34?logo=ruby-on-rails&logoColor=D30001" alt="Rails logo" title="Ruby On Rails" height="20" /></span>
+<span><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="20" /></span>
+<span><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS logo" title="NextJS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="20" /></span>
+<span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Flask-282C34?style=flat-square&logo=flask" alt="Flask logo" title="Flask" height="20"/></span>
+<span><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/-Vercel-282C34?style=flat-square&logo=vercel" alt="Vercel logo" title="Vercel" height="20"/></span>
+<span><img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js logo" title="Three.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/-Netlify-282C34?style=flat-square&logo=netlify" alt="Netlify logo" title="Netlify" height="20"/></span>
+<span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS logo" title="TailwindCSS" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/-Heroku-282C34?style=flat-square&logo=heroku" alt="Heroku logo" title="Heroku" height="20"/></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+&nbsp;
+<br>
+<span><img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby logo" title="Ruby" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails logo" title="Ruby On Rails" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask logo" title="Flask" height="25"/></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel logo" title="Vercel" height="25"/></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify logo" title="Netlify" height="25"/></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku logo" title="Heroku" height="25"/></span>
 &nbsp;
 <span>
-<img src = "https://img.shields.io/badge/Postman-282C34?style=flat-square&logo=postman" alt="Postman logo" title = "Postman" height="20"/>
+<img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman logo" title = "Postman" height="25"/>
 </span>
 <br>
-<span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="20"/></span>
+<span><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase logo" title="Firebase" height="25"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="20" /></span>
+<span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span>
-<img src = "https://img.shields.io/badge/-PostGreSQL-282C34?style=flat-square&logo=postgresql" alt="PostgreQL logo"  title="PostgreSQL" height="20"/>
+<img src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreQL logo"  title="PostgreSQL" height="25"/>
+</span>
+&nbsp;
+<span>
+<img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25"/>
 </span>
 <br>
 <br>
 
-<i> Want to learn more about: </i>
+<i> Recently, I'm also trying: </i>
 
-<span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="20" /></span>
+<span><img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Nuxt.js-282C34?logo=nuxt.js&logoColor=4FC08D" alt="Nuxt.js logo" title="Nuxt.js" height="20" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Svelte.js-282C34?logo=svelte" alt="SvelteJS logo" title="SvelteJS" height="20" /></span>
+<span><img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="SvelteJS logo" title="SvelteJS" height="25" /></span>
 <br>
-<span><img src="https://img.shields.io/badge/-GraphQL-282C34?style=flat-square&logo=graphql" alt="GraphQL logo" title="GraphQL" height="20" /></span>
+<span><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL logo" title="GraphQL" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=009137" alt="Nginx logo" title="Nginx" height="20" /></span>
-&nbsp;
-<span>
-<img src = "https://img.shields.io/badge/-MySQL-282C34?style=flat-square&logo=mysql" alt="MySQL logo" title="MySQL" height="20"/>
-</span>
+<span><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx logo" title="Nginx" height="25" /></span>
 
 <br>
 
@@ -90,7 +90,7 @@
 <br>
 
 <span>
-<img src = "https://img.shields.io/badge/react_native-282C34?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native logo" title="React Native" height="20"/>
+<img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25"/>
 </span>
 <br>
 <br>
@@ -98,19 +98,33 @@
 <u> Others:</u>
 <br>
 <span>
-<img src = "https://img.shields.io/badge/-Python-282C34?style=flat-square&logo=Python" alt="Python logo"  title="Python" height="20"/>
+<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="25"/>
 </span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="20" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Prettier-282C34?logo=prettier" alt="Prettier logo" title="Prettier" height="20" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="git logo" title="Git" height="20" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="20" /></span>
+<span>
+<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/>
+</span>
 &nbsp;
 <span>
-<img src = "https://img.shields.io/badge/Linux-282C34?style=flat-square&logo=linux" alt="Linux Logo"  title="Linux" height="20"/>
+<img src = "https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua logo"  title="Lua" height="25"/>
+</span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint logo" title="ESLint" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier logo" title="Prettier" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="Git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim logo" title="Vim" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim logo" title="Neovim" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker Code" height="25" /></span>
+&nbsp;
+<span>
+<img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Logo"  title="Linux" height="25"/>
 </span>
 
 <br>
