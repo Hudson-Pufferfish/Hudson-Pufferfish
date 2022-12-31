@@ -100,8 +100,7 @@
 </span>
 &nbsp;
 <span>
-<img src = "https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white
-" alt="RabbitMQ logo" title="RabbitMQ" height="25"/>
+<img src = "https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ logo" title="RabbitMQ" height="25"/>
 </span>
 
 ### <u> Mobile App Development Technologies & Tools: </u>
@@ -129,8 +128,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github logo" title="Github" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white
-" alt="Bitbucket logo" title="Bitbucket" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket logo" title="Bitbucket" height="25" /></span>
 
 
 ### <u> Operating Systems and Others:</u>
