@@ -8,7 +8,6 @@
 
 ## 🚀💻 Technologies & Tools
 
-<br>
 
 ### <u> Languages: </u>
 <br>
