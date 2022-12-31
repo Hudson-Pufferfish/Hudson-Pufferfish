@@ -153,7 +153,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim logo" title="Neovim" height="25" /></span>
 
-
+<br>
 <br>
 
 <i> Recently, I'm also learning: </i>
