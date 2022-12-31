@@ -81,6 +81,7 @@
 <span>
 <img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman logo" title = "Postman" height="25"/>
 </span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase logo" title="Firebase" height="25"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span>
