@@ -165,7 +165,6 @@
 <span><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL logo" title="GraphQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx logo" title="Nginx" height="25" /></span>
-
 <br>
 
 <hr>
