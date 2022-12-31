@@ -161,7 +161,7 @@
 <span><img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js logo" title="Nuxt.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="SvelteJS logo" title="SvelteJS" height="25" /></span>
-<br>
+&nbsp;
 <span><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL logo" title="GraphQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx logo" title="Nginx" height="25" /></span>
