@@ -202,7 +202,7 @@
   &nbsp;
   
    <a href="#" title="HudsonPufferfishdev">
-    <img width="315" align="center" src="https://github-profile-trophy.vercel.app/?username=hudson-pufferfish&theme=dracula" />
+    <img width="500" align="center" src="https://github-profile-trophy.vercel.app/?username=hudson-pufferfish&theme=dracula" />
   </a>
 </div>
 
