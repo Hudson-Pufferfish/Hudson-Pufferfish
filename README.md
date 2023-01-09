@@ -105,6 +105,10 @@
 <span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker Code" height="25" /></span>
 &nbsp;
 <span>
+<img src = "https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis logo" title="Redis" height="25"/>
+</span>
+&nbsp;
+<span>
 <img src = "https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elastic Search logo" title="Elastic Search" height="25"/>
 </span>
 &nbsp;
