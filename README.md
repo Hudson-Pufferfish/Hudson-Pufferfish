@@ -72,7 +72,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask logo" title="Flask" height="25"/></span>
+<span>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask logo" title="Flask" height="25"/>
+</span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel logo" title="Vercel" height="25"/></span>
 &nbsp;
