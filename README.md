@@ -8,8 +8,8 @@
 
 ## 🚀💻 Technologies & Tools
 
-
 ### <u> Languages: </u>
+
 <br>
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
@@ -41,6 +41,7 @@
 <br>
 
 ### <u> Frontend Development Technologies and Tools: </u>
+
 <br>
 
 <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
@@ -64,6 +65,7 @@
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
 
 ### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
+
 <br>
 
 <span><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails logo" title="Ruby On Rails" height="25" /></span>
@@ -71,6 +73,8 @@
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase logo" title="Firebase" height="25"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask logo" title="Flask" height="25" /></span>
 &nbsp;
@@ -83,8 +87,6 @@
 <span>
 <img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman logo" title = "Postman" height="25"/>
 </span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase logo" title="Firebase" height="25"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
@@ -111,6 +113,7 @@
 </span>
 
 ### <u> Mobile App Development Technologies & Tools: </u>
+
 <br>
 
 <span>
@@ -122,6 +125,7 @@
 </span>
 
 ### <u> Linters:</u>
+
 <br>
 
 <span><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint logo" title="ESLint" height="25" /></span>
@@ -129,6 +133,7 @@
 <span><img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="Prettier logo" title="Prettier" height="25" /></span>
 
 ### <u> Version Control and Tools:</u>
+
 <br>
 
 <span><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="Git" height="25" /></span>
@@ -137,8 +142,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket logo" title="Bitbucket" height="25" /></span>
 
-
 ### <u> Operating Systems and Others:</u>
+
 <br>
 
 <span>
