@@ -2,7 +2,7 @@
 
 # <a href="https://github.com/Hudson-Pufferfish"><img src="https://emoji.gg/assets/emoji/8519-babykoala.png" width="64px" height="64px" alt="BabyKoala"></a> Hi, I’m Hudson Nguyen!
 
-🙋‍♂️ Hi there, I’m Hudson Nguyen, a Vietnamese senior. Thanks for visiting my profile!
+🙋‍♂️ Hi there, I’m Hudson Nguyen, a CS senior from Vietnam. Thanks for visiting my profile!
 
 <hr>
 
